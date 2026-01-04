@@ -1,5 +1,0 @@
-{
-  "name": "SubsFlow",
-  "description": "A minimalist, high-performance subscription management tool inspired by Claude and Apple Notes, featuring trigram search and real-time cost analysis.",
-  "requestFramePermissions": []
-}
